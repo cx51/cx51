@@ -21,10 +21,10 @@
 ### GitHub Stats
 
 <a href="https://github.com/cx51/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cx51&theme=gotham&show_icons=true&hide=contribs,stars" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=cx51&theme=gotham&show_icons=true&hide=contribs,stars" />
 </a>
 <a href="https://github.com/cx51/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cx51&layout=donut&theme=gotham&card_width=320" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cx51&layout=donut&theme=gotham&card_width=320" />
 </a>
 
 ### Contributions
@@ -35,7 +35,7 @@
 
 ### Streak
 
-<p><img width="800" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cx51&" alt="cx51" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cx51&" alt="cx51" /></p>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
