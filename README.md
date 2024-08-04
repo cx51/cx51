@@ -27,6 +27,9 @@
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cx51&layout=donut&theme=gotham&card_width=320" />
 </a></br>
 
+### Streak
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cx51&" alt="cx51" /></p>
 
 ### Contributions
 
@@ -34,9 +37,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx51&theme=github_dark" alt="cx51's GitHub Stats"/>
 </div>
 
-### Streak
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cx51&" alt="cx51" /></p>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
