@@ -27,6 +27,8 @@
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cx51&layout=donut&theme=gotham&card_width=320" />
 </a>
 
+<br>
+
 ### Contributions
 
 <div align="left">
@@ -40,6 +42,8 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br>
 
 <details>
   <summary>🔒 My PGP Key</summary>
