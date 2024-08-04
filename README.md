@@ -1,4 +1,4 @@
-## Hi 👋, I'm Charanpreet Singh
+## Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Charanpreet Singh
 **@cx51**
 
 - 🔭 I’m currently working on my HomeLab, hardening linux systems on cloud servers, deploying services and writing code at times
@@ -41,7 +41,12 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
+<details>
+  <summary>🔒 My PGP Key</summary>
+  <br/>
+  ```
+  ```
+</details>
 <!---
 cx51/cx51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
