@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[cx51]&theme=github_dark" alt="[cx51]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx51&theme=github_dark" alt="cx51's GitHub Stats"/>
 </div>
 <!---
 cx51/cx51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
