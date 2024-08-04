@@ -21,12 +21,11 @@
 ### GitHub Stats
 
 <a href="https://github.com/cx51/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cx51&theme=gotham" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cx51&theme=gotham&show_icons=true&hide=contribs,stars" />
 </a>
 <a href="https://github.com/cx51/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cx51&layout=donut&theme=gotham&card_width=320" />
 </a>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Streak
 
