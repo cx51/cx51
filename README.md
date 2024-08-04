@@ -6,9 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![cx51's GitHub stats](https://github-readme-stats.vercel.app/api?username=cx51&show_icons=true&theme=transparent)
+![cx51's GitHub stats](https://github-readme-stats.vercel.app/api?username=cx51&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cx51&layout=donut&theme=transparent)](https://github.com/cx51/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cx51&layout=donut&theme=gotham)](https://github.com/cx51/github-readme-stats)
 
 <div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx51&theme=github_dark" alt="cx51's GitHub Stats"/>
