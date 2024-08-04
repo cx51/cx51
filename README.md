@@ -25,9 +25,8 @@
 </a>
 <a href="https://github.com/cx51/convoychat">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cx51&layout=donut&theme=gotham&card_width=320" />
-</a>
+</a></br>
 
-<br>
 
 ### Contributions
 
