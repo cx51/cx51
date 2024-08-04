@@ -6,7 +6,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![cx51's GitHub stats](https://github-readme-stats.vercel.app/api?username=cx51&show_icons=true&theme=gotham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cx51&layout=donut&theme=gotham)](https://github.com/cx51/github-readme-stats)
+<a href="https://github.com/cx51/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cx51&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cx51&layout=donut&langs_count=8&card_width=320" />
+</a>
 
 <div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cx51&theme=github_dark" alt="cx51's GitHub Stats"/>
