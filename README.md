@@ -2,7 +2,7 @@
 **@cx51**
 
 - 🔭 I’m currently working on my HomeLab, hardening linux systems on cloud servers, deploying services and writing code at times
-- 🎓 Studied B.Tech in Computer Science
+- 🎓 Studied Computer Science
 - 🌱 I’m also learning **Containerization on Fedora CoreOS**
 - 📝 I regularly write articles on [blog.charanpreet.dev](blog.charanpreet.dev)
 - 💬 Ask me about **anything that's mentioned in my Tech Stack**
@@ -20,9 +20,13 @@
 
 ### GitHub Stats
 
-[![cx51's GitHub stats](https://github-readme-stats.vercel.app/api?username=cx51)](https://github.com/cx51/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cx51&layout=donut)](https://github.com/cx51/github-readme-stats)
+<a href="https://github.com/cx51/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cx51&theme=gotham" />
+</a>
+<a href="https://github.com/cx51/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cx51&layout=donut&theme=gotham&card_width=320" />
+</a>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Streak
 
