@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/cx51/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cx51&show_icons=true&theme=github_dark&hide=stars,issues,contribs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cx51&show_icons=true&theme=github_dark&hide=issues,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cx51&layout=donut&theme=github_dark&card_width=320"/>
