@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on my HomeLab, hardening linux systems on cloud servers, deploying services and writing code at times
 - 🎓 Studied Computer Science
 - 🌱 I’m also learning **Containerization on Fedora CoreOS**
-- 📝 I regularly write articles on [blog.charanpreet.dev](blog.charanpreet.dev)
+- 📝 I regularly write articles on [blog.charanpreet.dev](https://blog.charanpreet.dev)
 - 💬 Ask me about **anything that's mentioned in my Tech Stack**
-- 📫 If you want to reach out to me [click here](charanpreet.dev)
+- 📫 If you want to reach out to me [click here](https://www.charanpreet.dev)
 
 ## Tech Stack
 
